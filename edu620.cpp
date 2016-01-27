@@ -1,5 +1,5 @@
 #include<iostream>
-#include<cstdio>
+ #include<cstdio>
 #include<set>
 using namespace std;
 int a[300009];
