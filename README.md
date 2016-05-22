@@ -1,3 +1,3 @@
 # codeforce
-code force code
+codeforce code
 modify
